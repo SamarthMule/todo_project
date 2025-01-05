@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+venv/
+.venv/
+
+# Django specific
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+*.sqlite3
