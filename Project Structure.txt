@@ -1,0 +1,27 @@
+todo_project/
+    ├── todo_project/
+    │   ├── __init__.py
+    │   ├── asgi.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   └── wsgi.py
+    ├── todo_app/
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── forms.py
+    │   ├── models.py
+    │   ├── tests.py
+    │   ├── urls.py
+    │   ├── views.py
+    │   ├── migrations/
+    │   │   └── 0001_initial.py
+    │   ├── templates/
+    │   │   ├── add_task.html
+    │   │   ├── edit_task.html
+    │   │   ├── home.html
+    │   │   ├── login.html
+    │   │   ├── register.html
+    │   │   └── task_list.html
+    ├── db.sqlite3
+    └── manage.py
