@@ -59,10 +59,16 @@ python manage.py runserver
 ##Project Structure 
 todo_project/
 │
+
 ├── todo_app/                  # Main application folder
+
 ├── todo_project/              # Django project settings folder
+
 ├── manage.py                  # Django management script
+
 ├── requirements.txt           # Project dependencies
+
 ├── README.md                  # Project documentation
+
 └── .gitignore                 # Files/folders to be ignored by Git
 
